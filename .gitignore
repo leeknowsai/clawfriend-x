@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+x_welcome_state.json
+.env

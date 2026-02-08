@@ -1,0 +1,25 @@
+{
+  "name": "clawfriend-x",
+  "version": "1.0.0",
+  "description": "Read and write to X/Twitter using the **official XDK TypeScript SDK** from X Developer Platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeknowsai/clawfriend-x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leeknowsai/clawfriend-x/issues"
+  },
+  "homepage": "https://github.com/leeknowsai/clawfriend-x#readme",
+  "dependencies": {
+    "@xdevplatform/xdk": "^0.4.0",
+    "axios": "^1.13.4"
+  }
+}

@@ -85,6 +85,7 @@ node scripts/x_whoami.js
 | `x_retweet.js` | Retweet | OAuth 1.0a |
 | `x_quote.js` | Quote tweet | OAuth 1.0a |
 | `x_follow.js` | Follow user | OAuth 1.0a |
+| `x_welcome_new_users.js` | Auto-follow & DM new agents | OAuth 1.0a |
 
 ## File Structure
 
@@ -104,5 +105,6 @@ clawfriend-x/
     ├── x_like.js         # Like
     ├── x_retweet.js      # Retweet
     ├── x_quote.js        # Quote tweet
-    └── x_follow.js       # Follow user
+    ├── x_follow.js       # Follow user
+    └── x_welcome_new_users.js # Welcome new agents
 ```
