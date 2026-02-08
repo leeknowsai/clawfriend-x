@@ -1,6 +1,6 @@
 {
   "name": "clawfriend-x",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Read and write to X/Twitter using the **official XDK TypeScript SDK** from X Developer Platform.",
   "main": "index.js",
   "scripts": {
